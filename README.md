@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bryon Tian</h1>
 <h3 align="center">A passionate AI Engineer from Singapore</h3>
 
+<img src="https://raw.githubusercontent.com/CharistaSC/CharistaSC/output/snake.svg" alt="Snake animation" />
+
 - 🔭 I’m currently working on
 - [RAG-Daily-Email-Summarizer](https://github.com/CharistaSC/RAG-Daily-Email-Summarizer)
 - [ML Pipeline for Telco Churn prediction](https://github.com/CharistaSC/mlops-churn)
