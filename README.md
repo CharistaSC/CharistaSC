@@ -5,9 +5,6 @@
 - [RAG-Daily-Email-Summarizer](https://github.com/CharistaSC/RAG-Daily-Email-Summarizer)
 - [ML Pipeline for Telco Churn prediction](https://github.com/CharistaSC/mlops-churn)
 
-<img src="https://raw.githubusercontent.com/charistasc/charistasc/output/snake.svg" alt="Snake animation" />
-
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charistasc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 <h3 align="left">Connect with me:</h3>
